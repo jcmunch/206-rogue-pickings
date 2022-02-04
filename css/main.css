@@ -138,6 +138,7 @@ header nav ul li a{
 footer {
 	border-top: 3px solid #eee;
 	text-align: center;
+	width: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
